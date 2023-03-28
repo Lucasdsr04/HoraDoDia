@@ -1,3 +1,3 @@
-# Hora do dia em tempo real baseado na hora do sistema do seu computador, com umas animações entre manhã, tarde e noite
+# Hora do dia baseado na hora do sistema do seu computador
 
-Link: https://lucasdsr04.github.io/HoraDoDia/index.html
+# Link: https://lucasdsr04.github.io/HoraDoDia/index.html
